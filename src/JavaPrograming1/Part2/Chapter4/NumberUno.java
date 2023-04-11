@@ -1,6 +1,5 @@
-/*
-    Write a method public static int numberUno() that returns the value 1.
-*/
+package JavaPrograming1.Part2.Chapter4;
+
 public class NumberUno {
     public static void main(String[] args) {
         numberUno();

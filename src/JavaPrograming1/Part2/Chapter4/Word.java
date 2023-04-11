@@ -1,6 +1,4 @@
-/*
-    Write a method public static String word(). The method must return a string of your choice.
- */
+package JavaPrograming1.Part2.Chapter4;
 public class Word {
     public static void main(String[] args) {
         word();
