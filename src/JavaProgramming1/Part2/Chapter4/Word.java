@@ -1,4 +1,4 @@
-package JavaPrograming1.Part2.Chapter4;
+package JavaProgramming1.Part2.Chapter4;
 public class Word {
     public static void main(String[] args) {
         word();

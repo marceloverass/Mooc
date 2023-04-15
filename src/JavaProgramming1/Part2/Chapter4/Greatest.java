@@ -1,4 +1,4 @@
-package JavaPrograming1.Part2.Chapter4;
+package JavaProgramming1.Part2.Chapter4;
 
 public class Greatest {
     public static int greatest(int number1, int number2, int number3) {
