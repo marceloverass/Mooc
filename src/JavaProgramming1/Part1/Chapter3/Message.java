@@ -1,4 +1,4 @@
-package JavaProgramming1.Part1.Chapter33;
+package JavaProgramming1.Part1.Chapter3;
 import java.util.Scanner;
 public class Message {
     public static void main(String[] args) {
